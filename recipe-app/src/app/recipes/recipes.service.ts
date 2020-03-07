@@ -8,7 +8,7 @@ import { Recipe } from './recipe.model';
 export class RecipesService {
   private recipes: Recipe[] = [
     {
-      id: 'rl',
+      id: 'r1',
       title: 'Scnitzel',
       imageUrl: 'https://cdn.pixabay.com/photo/2018/10/28/19/44/schnitzel-3779726_960_720.jpg',
       ingredients: ['French Fries', 'Pork Meat']
